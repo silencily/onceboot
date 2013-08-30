@@ -1,2 +1,8 @@
-This file was created by IntelliJ IDEA 12.1.4 for binding GitHub repository
-This file was modified by IntelliJ IDEA 12.1.4 for binding GitHub repository
+OnceBoot
+
+这是个一次启动多个本地程序的脚本。
+程序的由来是为了解决在使用电脑过程中想要一次启动多个程序，尤其是电脑启动后想要一次启动多个程序，
+可能你要问为什么不把程序设置成开机自启动，这样不就OK了，有时候开机快是使用电脑的最愉快的开始，
+正是出于这个目的，把程序设置成开机启动给开机增加了启动压力，拖慢了见到桌面的时间，自己的电脑还是自己来做主吧～
+
+通过boot.yaml文件可以配置自己想要的启动器，每个启动器包含若干的一次启动的程序。
