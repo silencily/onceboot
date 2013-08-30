@@ -1,0 +1,15 @@
+#app config
+author: silencily
+version: 0.1
+
+booters:
+  - name:      Tendyron
+    symbol:    '1'
+    programs:
+      - name:  outlook
+        path:  outlook
+      - name:  goagent
+        path:  D:\WorkTools\goagent\local\goagent.exe
+      - name:  feiq
+        path:  D:\WorkTools\FeiQ\FeiQ.exe
+
